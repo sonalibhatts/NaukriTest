@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41832" started-at="2019-01-07T13:25:30Z" finished-at="2019-01-07T13:26:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41832" started-at="2019-01-07T13:25:30Z" finished-at="2019-01-07T13:26:12Z">
+      <class name="com.naukri.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="7665" started-at="2019-01-07T13:25:30Z" finished-at="2019-01-07T13:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:1, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="LoginPageTitleTest" duration-ms="3015" started-at="2019-01-07T13:25:38Z" finished-at="2019-01-07T13:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="680" started-at="2019-01-07T13:25:41Z" finished-at="2019-01-07T13:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="9734" started-at="2019-01-07T13:25:42Z" finished-at="2019-01-07T13:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPopupTest()[pri:2, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="LoginPopupTest" duration-ms="127" started-at="2019-01-07T13:25:51Z" finished-at="2019-01-07T13:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPopupTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="669" started-at="2019-01-07T13:25:52Z" finished-at="2019-01-07T13:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="setUp" is-config="true" duration-ms="8175" started-at="2019-01-07T13:25:52Z" finished-at="2019-01-07T13:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:5, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="LoginTest" duration-ms="11058" started-at="2019-01-07T13:26:00Z" finished-at="2019-01-07T13:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.naukri.qa.testcases.LoginPageTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="685" started-at="2019-01-07T13:26:11Z" finished-at="2019-01-07T13:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.naukri.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

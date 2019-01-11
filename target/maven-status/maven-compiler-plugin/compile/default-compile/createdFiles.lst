@@ -1,0 +1,5 @@
+com\naukri\qa\pages\ProfilePage.class
+com\naukri\qa\base\TestBase.class
+com\naukri\qa\util\TestUtil.class
+com\naukri\qa\pages\AddEmploymentPage.class
+com\naukri\qa\pages\LoginPage.class
